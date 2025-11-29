@@ -1,4 +1,4 @@
 # CSD 380 DevOps
-- Contributors
+## Contributors
 * Brennan Cheatwood
 * Toni Farley
